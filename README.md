@@ -6,6 +6,7 @@ Esse é um projeto para a criação de um website para a DNC Coffee, uma cafeter
 
 * HTML5
 * CSS3
+* JavaScript
 * Bootstrap 5.3.0-alpha3
 
 # Como utilizar
