@@ -109,3 +109,10 @@ section {
         margin: 2rem;
     }
   }
+
+
+  @media only screen and (max-width: 600px) {
+    .modal-content-1{
+      width: 70%;
+    }
+  }
