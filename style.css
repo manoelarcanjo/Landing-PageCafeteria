@@ -47,6 +47,7 @@ section {
     font-weight: 300;
     width: 50%;
     padding-top: 5rem;
+    border-radius: 1rem;
   }
 
   .modal-content-1 p {
